@@ -1,4 +1,4 @@
-**_Future Ready Talent Projects_**
+**Future Ready Talent Projects**
 
 **Project Title:**
 
@@ -102,30 +102,108 @@ Now Our application insights is linked with the App service
 
 ![Screenshot 2024-01-18 191418](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/5c734070-e988-46a4-9841-a891950312aa)
 
+Our third service is AI service, Go to AI service-> Language service-> Click on create
 
-![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/81f4f562-6485-492c-a0d9-8c766860d745)
-![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/6072dc8a-b3bc-4c97-a1dc-93b1a91bb26a)
-![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/550429aa-53b3-4c32-a08f-e8f77290d3a3)
-![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/5d144c53-b048-4905-87d1-9cd341aaa71c)
-![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/479fd341-a263-406d-82f4-c73b8948fd58)
-![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/d679f685-d5fd-4c38-b9b5-2078a11313d8)
-![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/5deef5c9-5e13-4af4-9c84-7b2e6bb5178a)
-![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/26e5fff5-2286-4158-946e-9c804c55a2e6)
-![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/e900fe63-7154-4b26-b606-94d0eb8ab208)
-![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/31a993fb-527a-4ea1-89b2-71e7d0784330)
-![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/a4cba292-56ef-4959-a934-59c4e56b5a64)
-![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/56a4a5d8-756b-4077-8837-87c24e3c4547)
-![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/09af9d64-c265-4aec-999b-f0fb975e3eed)
-![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/5f3a2e39-753c-4ab9-86e7-55c3d6d6a338)
-![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/a923321c-9c20-4b07-a27c-4c4032d6c873)
-![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/03875270-bba6-42da-94d9-9ab5db1c9557)
-![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/d3dab909-3c18-490c-b2b8-c84bf10deeca)
-![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/e3ff20bb-4880-4dfb-832c-d46f10736ebd)
-![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/49ad7465-f2ff-4b1a-977e-bcb56dfe3cec)
-![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/a35768c9-9fba-4450-9aa8-31f4f678867d)
-![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/d8900a01-035f-44fc-8dbc-071c5692171d)
-![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/d076a522-d13c-43b8-9ddd-cd703309e25b)
-![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/94e27b93-2951-4b9c-9b1c-13a13a6656ce)
+![Screenshot 2024-01-17 143022](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/47394dac-7458-4317-b138-babc8130d1df)
+
+Select resource group and enter the name
+
+![Screenshot 2024-01-17 143516](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/471cb73d-90b0-4ecc-bcc1-a4e2c408e272)
+
+Tick the last option and click on review + create.
+
+![Screenshot 2024-01-17 143532](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/f23e53bd-2373-4c4f-81a3-7cc645c01a0e)
+
+After deployment click on go to resource group
+
+![Screenshot 2024-01-17 143831](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/3bbe3fb4-7044-4150-b511-5c2257140949)
+
+Click on our chatbot
+
+![Screenshot 2024-01-17 144112](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/0e70c4ba-b428-4046-ba48-81b19b9f7a6c)
+
+Click on JSON view -> click on language studio and sign in
+
+![Screenshot 2024-01-17 144220](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/3e964c89-d46c-4c17-96ad-319158f86158)
+
+Fill all the details properly, select the resource group and click on done
+
+![Screenshot 2024-01-17 144344](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/efbaa2f8-5148-412d-9182-7ad9aa6da9b9)
+
+Click on create new and then click on custom question answering
+
+![Screenshot 2024-01-17 144422](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/c23bca87-29a9-44e9-9a31-963ca390f706)
+
+Azure Enter search service name -> azure search location-> azure search pricing tier -> create.
+
+![Screenshot 2024-01-17 144923](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/342a1c78-a9f4-4445-9503-b16f8745e887)
+
+Select the language
+
+![Screenshot 2024-01-17 145226](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/fda5e249-f525-42b7-b8c8-17f11d7ba7ab)
+
+Click on next and create project
+
+![Screenshot 2024-01-17 145359](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/5f40692d-5118-428d-ba5f-dc7b43f52f50)
+
+![Screenshot 2024-01-17 145443](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/b52be04c-7205-45fb-a54e-525b685e5429)
+
+Now upload our all the question and answer pdf you have created 
+
+![Screenshot 2024-01-17 145656](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/ecda253d-c174-44e7-93f4-9d49ed928aa0)
+
+Now go to lnguage studio
+
+![Screenshot 2024-01-17 150406](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/974b5447-5394-4d86-b97a-2889cd2d5297)
+
+Now click  on create a bot
+
+![Screenshot 2024-01-17 150514](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/e3bfcf62-fdc1-43a8-9393-838a43c6d674)
+
+Select resource group-> bot handle
+
+![Screenshot 2024-01-17 151004](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/7915e71f-f7d7-4c91-aae5-2bc23151a0b0)
+
+Enter App name and select SDK language selection then click on next
+
+![Screenshot 2024-01-17 151021](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/9113bac4-bc2f-401a-98cb-1758998b2082)
+
+Fill all the details properly and click on review + create.
+
+![Screenshot 2024-01-17 151033](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/10b88d7c-1eb2-4f13-b2ad-031bcfee60da)
+
+Now our bot is ready 
+
+![Screenshot 2024-01-17 151845](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/e0e77263-5d86-4f40-8f40-66f56c1ef40a)
+
+**ScreenShots of the website after deploying**
+
+![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/0c85c9e3-c7fa-4c9e-a85f-e5d53afbadcd)
+
+![Screenshot 2024-01-17 193838](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/1812a355-f65a-4974-92f8-39048629f355)
+
+![Screenshot 2024-01-17 194340](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/79755fd4-1c9b-48df-bacd-fd3ea2080bef)
+
+![Screenshot 2024-01-17 194406](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/ace45c45-c1c7-4b45-80a3-210235712ae6)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

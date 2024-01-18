@@ -1,4 +1,4 @@
-**Future Ready Talent Projects**
+***Future Ready Talent Projects***
 
 **Project Title:**
 
@@ -67,7 +67,42 @@ click on deployment center-> select source(external git)-> (copy the repository 
 
 ![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/bd1ed53d-2ec1-42d1-b2c9-ccc3cfa0c7df)
 
+This is over second service that is application insights
+
 ![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/160072cd-242b-46ff-a5c0-20334eee33d3)
+
+To connect application insights to the app services go to the app service-> API management-> click on create new
+
+![Screenshot 2024-01-18 190000](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/0d73414c-cea4-4816-866c-f3b4a3de97aa)
+
+Enter the organization name and administrator email
+
+![Screenshot 2024-01-18 190358](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/170657b1-4a9e-4309-89fc-a7f01ad46ee5)
+
+Go to monitoring select the application insights and click in review + create
+
+![Screenshot 2024-01-18 190411](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/d38f99ec-dd70-4f3e-b47d-a4a38fd24015)
+
+Now click on Link API
+
+![Screenshot 2024-01-18 191022](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/72db89ce-107a-44f4-81f1-d746b789d61b)
+
+Select the App service
+
+![Screenshot 2024-01-18 191223](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/1ae6c030-27c0-44fa-98f6-b2cd004e40ec)
+
+Select the app service and click on create
+
+![Screenshot 2024-01-18 191248](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/fa166705-2630-4af8-8040-441b6026b487)
+
+Now Our application insights is linked with the App service
+
+![Screenshot 2024-01-18 191418](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/5c734070-e988-46a4-9841-a891950312aa)
+
+
+
+
+
 ![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/81f4f562-6485-492c-a0d9-8c766860d745)
 ![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/6072dc8a-b3bc-4c97-a1dc-93b1a91bb26a)
 ![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/550429aa-53b3-4c32-a08f-e8f77290d3a3)

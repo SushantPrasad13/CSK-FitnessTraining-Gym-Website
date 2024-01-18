@@ -1,4 +1,4 @@
-_Future Ready Talent Projects_
+**_Future Ready Talent Projects_**
 
 **Project Title:**
 

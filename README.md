@@ -49,6 +49,7 @@ Core Azure Services :
 - **Project Documentation url: [https://drive.google.com/file/d/1IdBNfvsYdTdVMLEQMtyG6XBD2N11Jfa0/view?usp=sharing**](https://drive.google.com/file/d/1IdBNfvsYdTdVMLEQMtyG6XBD2N11Jfa0/view?usp=sharing)**
 
 **ScreenShots of the project :**
+
 Go to app service-> create a web app-> create resource group-> enter name-> select runtime stack
 
 ![Screenshot 2024-01-17 140616](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/7bc92763-80e8-4388-a29f-b6a9da9b7cfb)

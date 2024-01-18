@@ -187,6 +187,9 @@ Now our bot is ready
 
 ![Screenshot 2024-01-17 194406](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/ace45c45-c1c7-4b45-80a3-210235712ae6)
 
+![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/eec5b61f-7de1-4f6c-8381-3dd1ae8a180f)
+
+
 
 
 

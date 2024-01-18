@@ -12,7 +12,7 @@ The Neo Gym Website project aims to create an immersive online platform for fitn
 
 Lifestyle
 
-Core Azure Services : 
+**Core Azure Services :**
 
 - **Azure App Service (for hosting the website)**
 - **Azure App Insights (to understand the performance and usage of your live web application)**

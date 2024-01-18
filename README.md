@@ -51,16 +51,17 @@ Core Azure Services :
 **ScreenShots of the website after deploying :**
 Go to app service-> create a web app-> create resource group-> enter name-> select runtime stack
 
-![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/c60f821b-9555-47c4-be14-5897ff011e3c)
+![Screenshot 2024-01-17 140616](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/7bc92763-80e8-4388-a29f-b6a9da9b7cfb)
 
 
 select windows plan -> pricing plan -> review + create
 
-![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/c095ad0d-a9e8-4d3c-ae81-2da3600b3886)
+![Screenshot 2024-01-17 140638](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/43a0d8c3-0e9d-41fb-b8dd-1b577c939c1a)
+
 
 This is After deployment
 
-![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/ba21453e-5244-416c-9b51-d5f0014f0112)
+![Screenshot 2024-01-17 141229](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/3f81d593-4e69-4429-a050-b9a4445d783a)
 
 
 click on deployment center-> select source(external git)-> (copy the repository from the github and paste it) in Repository-> Branch(main)-> click on save

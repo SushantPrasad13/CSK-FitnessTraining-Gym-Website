@@ -50,12 +50,21 @@ Core Azure Services :
 
 **ScreenShots of the website after deploying :**
 Go to app service-> create a web app-> create resource group-> enter name-> select runtime stack
+
 ![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/c60f821b-9555-47c4-be14-5897ff011e3c)
+
+
 select windows plan -> pricing plan -> review + create
+
 ![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/c095ad0d-a9e8-4d3c-ae81-2da3600b3886)
+
 This is After deployment
+
 ![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/ba21453e-5244-416c-9b51-d5f0014f0112)
+
+
 click on deployment center-> select source(external git)-> (copy the repository from the github and paste it) in Repository-> Branch(main)-> click on save
+
 ![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/bd1ed53d-2ec1-42d1-b2c9-ccc3cfa0c7df)
 
 ![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/160072cd-242b-46ff-a5c0-20334eee33d3)

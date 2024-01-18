@@ -1,4 +1,4 @@
-****Future Ready Talent Projects****
+#****Future Ready Talent Projects****#
 
 **Project Title:**
 
@@ -48,7 +48,7 @@ Core Azure Services :
 
 - **Project Documentation url: [https://drive.google.com/file/d/1IdBNfvsYdTdVMLEQMtyG6XBD2N11Jfa0/view?usp=sharing**](https://drive.google.com/file/d/1IdBNfvsYdTdVMLEQMtyG6XBD2N11Jfa0/view?usp=sharing)**
 
-**ScreenShots of the website after deploying :**
+**ScreenShots of the project :**
 Go to app service-> create a web app-> create resource group-> enter name-> select runtime stack
 
 ![Screenshot 2024-01-17 140616](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/7bc92763-80e8-4388-a29f-b6a9da9b7cfb)
@@ -66,11 +66,13 @@ This is After deployment
 
 click on deployment center-> select source(external git)-> (copy the repository from the github and paste it) in Repository-> Branch(main)-> click on save
 
-![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/bd1ed53d-2ec1-42d1-b2c9-ccc3cfa0c7df)
+![Screenshot 2024-01-17 141352](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/a1ac073d-10c7-4c3b-ad11-9a81449eb801)
 
-This is over second service that is application insights
 
-![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/160072cd-242b-46ff-a5c0-20334eee33d3)
+This is our second service that is application insights
+
+![Screenshot 2024-01-17 142837](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/1c51e989-660c-42ec-9b86-e06c04239994)
+
 
 To connect application insights to the app services go to the app service-> API management-> click on create new
 
@@ -99,9 +101,6 @@ Select the app service and click on create
 Now Our application insights is linked with the App service
 
 ![Screenshot 2024-01-18 191418](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/5c734070-e988-46a4-9841-a891950312aa)
-
-
-
 
 
 ![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/81f4f562-6485-492c-a0d9-8c766860d745)

@@ -69,6 +69,7 @@ body {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
+  background-image: url(../images/hero-bg.jpg);
   background-size: cover;
   background-attachment: fixed;
 }
@@ -294,7 +295,7 @@ a:focus {
 }
 
 .us_section {
-  background-image: url(../images/background photo.jpg);
+  background-image: url(../images/us-bg.jpg);
   background-size: cover;
   background-attachment: fixed;
   color: #ffffff;

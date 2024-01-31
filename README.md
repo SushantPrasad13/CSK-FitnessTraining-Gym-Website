@@ -46,7 +46,7 @@ Lifestyle
 - **Web Application hosted on Azure** : https://gymtrainer.azurewebsites.net/
 - **Project Video url:** [**https://drive.google.com/file/d/1ErERAHSPulAoIZpm_AoiDiiaVkIgtRbK/view?usp=sharing**](https://drive.google.com/file/d/1ErERAHSPulAoIZpm_AoiDiiaVkIgtRbK/view?usp=sharing)
 
-- **Project Documentation url: [https://drive.google.com/file/d/1IdBNfvsYdTdVMLEQMtyG6XBD2N11Jfa0/view?usp=sharing**](https://drive.google.com/file/d/1IdBNfvsYdTdVMLEQMtyG6XBD2N11Jfa0/view?usp=sharing)**
+- **Project Documentation url: https://drive.google.com/file/d/1n4wmzDyLH4Qm8pa5vmdytzfwESt2GF6M/view?usp=sharing**
 
 **ScreenShots of the project :**
 

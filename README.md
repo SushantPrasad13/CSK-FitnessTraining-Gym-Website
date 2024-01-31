@@ -2,11 +2,11 @@
 
 **Project Title:**
 
-Fitness Training Neo Gym Website
+CSK Fitness Training Gym Website
 
 **Project Description :**
 
-The Neo Gym Website project aims to create an immersive online platform for fitness enthusiasts, providing a comprehensive and dynamic experience for individuals seeking top-notch fitness training. The website will serve as a hub for information, guidance, and community engagement, fostering a sense of motivation and support for users on their fitness journey.  Additionally, our website will feature “Custom Question Answers” powered by Azure Language, an AI service provided by Azure, to help customers with any questions they may have. This will improve the overall experience and make it more enjoyable for our customers. We have used Azure App Service and Azure App Insights to host and manage our website, respectively. We have also integrated an AI chatbot to enhance the overall customer experience.
+The CSK Gym Website project aims to create an immersive online platform for fitness enthusiasts, providing a comprehensive and dynamic experience for individuals seeking top-notch fitness training. The website will serve as a hub for information, guidance, and community engagement, fostering a sense of motivation and support for users on their fitness journey.  Additionally, our website will feature “Custom Question Answers” powered by Azure Language, an AI service provided by Azure, to help customers with any questions they may have. This will improve the overall experience and make it more enjoyable for our customers. We have used Azure App Service and Azure App Insights to host and manage our website, respectively. We have also integrated an AI chatbot to enhance the overall customer experience.
 
 **Industry Type :**
 

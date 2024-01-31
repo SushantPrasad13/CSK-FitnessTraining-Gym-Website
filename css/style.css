@@ -345,7 +345,8 @@ a:focus {
   background-size: cover;
   background-attachment: fixed;
   
-  text-align: center;
+  text-align: center; 
+  color: "white"
  
   /* font-size: 51px; */
 

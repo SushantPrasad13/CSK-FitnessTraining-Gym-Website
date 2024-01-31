@@ -321,7 +321,7 @@ a:focus {
 }
 
 .us_section .us_container .box .img-box {
-  height: 100px;
+  height: 80px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;

@@ -179,15 +179,25 @@ Now our bot is ready
 
 **ScreenShots of the website after deploying**
 
-![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/0c85c9e3-c7fa-4c9e-a85f-e5d53afbadcd)
+![Screenshot 2024-01-31 204509](https://github.com/SushantPrasad13/CSK-FitnessTraining-Gym-Website/assets/144934599/ffb3a339-52c8-47fe-a24c-9fda666bd2cd)
 
-![Screenshot 2024-01-17 193838](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/1812a355-f65a-4974-92f8-39048629f355)
+![Screenshot 2024-01-31 204703](https://github.com/SushantPrasad13/CSK-FitnessTraining-Gym-Website/assets/144934599/5c2ee4f5-3554-4823-af05-1c53fd1f5a1c)
 
-![Screenshot 2024-01-17 194340](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/79755fd4-1c9b-48df-bacd-fd3ea2080bef)
+![Screenshot 2024-01-31 204909](https://github.com/SushantPrasad13/CSK-FitnessTraining-Gym-Website/assets/144934599/0c21c851-546f-4de9-9f81-0bd75a5680f1)
 
-![Screenshot 2024-01-17 194406](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/ace45c45-c1c7-4b45-80a3-210235712ae6)
+![image](https://github.com/SushantPrasad13/CSK-FitnessTraining-Gym-Website/assets/144934599/9f21978e-4320-4fe6-954e-8f6f0a2acb1b)
 
-![image](https://github.com/SushantPrasad13/Fitness-Training-NeoGym-Website/assets/144934599/eec5b61f-7de1-4f6c-8381-3dd1ae8a180f)
+![Screenshot 2024-01-31 210007](https://github.com/SushantPrasad13/CSK-FitnessTraining-Gym-Website/assets/144934599/bfea794d-6f61-4e0a-ad4d-b19780777342)
+
+![Screenshot 2024-01-31 204944](https://github.com/SushantPrasad13/CSK-FitnessTraining-Gym-Website/assets/144934599/861d4d72-9ec5-4602-8fda-c4202cd337e3)
+
+![Screenshot 2024-01-31 205018](https://github.com/SushantPrasad13/CSK-FitnessTraining-Gym-Website/assets/144934599/0da76c9d-4ea6-4b0e-bdba-d60838a67dbf)
+
+
+
+
+
+
 
 
 

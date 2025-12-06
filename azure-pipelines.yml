@@ -5,23 +5,29 @@ pool:
   name: 'Pipeline-Agent'
 
 steps:
-# 1. Archive files into a clean ZIP (no .git, no pipeline files)
+# 1. Copy only website files (exclude .git, pipeline, markdown)
+- task: CopyFiles@2
+  inputs:
+    SourceFolder: '$(Build.SourcesDirectory)'
+    Contents: |
+      **/*
+      !.git/**/*
+      !.git/**        # extra safety
+      !azure-pipelines.yml
+      !README.md
+      !*.md
+    TargetFolder: '$(Build.ArtifactStagingDirectory)/site'
+
+# 2. Archive the filtered files into a ZIP
 - task: ArchiveFiles@2
   inputs:
-    rootFolderOrFile: '$(Build.SourcesDirectory)'
+    rootFolderOrFile: '$(Build.ArtifactStagingDirectory)/site'
     includeRootFolder: false
     archiveType: 'zip'
     archiveFile: '$(Build.ArtifactStagingDirectory)/website.zip'
     replaceExistingArchive: true
-    contents: |
-      **/*                  # include everything by default
-      !.git/**/*            # exclude .git folder
-      !.gitignore           # exclude gitignore
-      !azure-pipelines.yml  # exclude pipeline yaml
-      !README.md            # exclude readme
-      !*.md                 # exclude any other markdown files if present
 
-# 2. Publish the ZIP as build artifact
+# 3. Publish the ZIP as build artifact
 - task: PublishBuildArtifacts@1
   inputs:
     PathtoPublish: '$(Build.ArtifactStagingDirectory)'

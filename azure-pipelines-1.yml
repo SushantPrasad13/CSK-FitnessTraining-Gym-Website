@@ -1,0 +1,28 @@
+trigger:
+- main
+
+pool:
+  name: 'Pipeline-Agent'
+
+steps:
+# 1. Copy only website files (exclude .git, pipeline, markdown)
+- task: CopyFiles@2
+  inputs:
+    SourceFolder: '$(Build.SourcesDirectory)'
+    TargetFolder: '$(Build.ArtifactStagingDirectory)/site'
+
+# 2. Archive the filtered files into a ZIP
+- task: ArchiveFiles@2
+  inputs:
+    rootFolderOrFile: '$(Build.ArtifactStagingDirectory)/site'
+    includeRootFolder: false
+    archiveType: 'zip'
+    archiveFile: '$(Build.ArtifactStagingDirectory)/csk.zip'
+    replaceExistingArchive: true
+
+# 3. Publish the ZIP as build artifact
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: '$(Build.ArtifactStagingDirectory)'
+    ArtifactName: 'csk'
+    publishLocation: 'Container'
